@@ -7,12 +7,15 @@ The Supreme Lord of Undeath now sounds like the Overlord of Evil. Myah.
 ## Install (Windows)
 
 1. Download **[`dist/skeletor_nagash_mod.zip`](dist/skeletor_nagash_mod.zip)** and
-   extract it.
-2. Copy `skeletor_nagash.pack` into your game's `data` folder. Default Steam path:
-   `C:\Program Files (x86)\Steam\steamapps\common\Total War WARHAMMER III\data\`
-   (Can't find it? Steam → right-click *Total War: WARHAMMER III* → Manage →
-   Browse local files → open `data`.)
+   extract it (right-click → Extract All — don't run it from inside the zip).
+2. Double-click **`install.bat`**. It finds your game automatically, installs the
+   pack, and opens the folder so you can see it landed. If it can't find the game,
+   it asks you to point it at the `data` folder.
 3. Launch the game. That's it — no mod manager needed; the pack loads automatically.
+
+Prefer to do it by hand? Copy `skeletor_nagash.pack` into
+`C:\Program Files (x86)\Steam\steamapps\common\Total War WARHAMMER III\data\`
+(Steam → right-click the game → Manage → Browse local files → `data`).
 
 **Uninstall:** delete `skeletor_nagash.pack` from that folder. The original voice
 comes back instantly — the mod never touches any game file.

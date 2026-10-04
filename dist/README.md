@@ -15,13 +15,18 @@ Times"). Personal-use mod.
    manager step needed.
 
 ## Install — Windows
-1. Download `skeletor_nagash_mod.zip` and extract it.
-2. Copy `skeletor_nagash.pack` into your game's data folder — for a default Steam
+Easiest: extract the zip, then double-click **`install.bat`**. It auto-detects the
+Steam install (including non-default library folders), copies the pack, and opens
+Explorer on the installed file; if it can't find the game it shows a folder picker.
+It only asks for admin rights if your Steam folder is write-protected.
+
+Manual route:
+1. Copy `skeletor_nagash.pack` into your game's data folder — for a default Steam
    install that's:
    `C:\Program Files (x86)\Steam\steamapps\common\Total War WARHAMMER III\data\`
    (If Steam is somewhere else: Steam → right-click the game → Manage → Browse local
    files → open the `data` folder.)
-3. Launch the game normally. Movie-type packs load automatically — no mod manager or
+2. Launch the game normally. Movie-type packs load automatically — no mod manager or
    enabling step needed.
 
 ## Requirements
