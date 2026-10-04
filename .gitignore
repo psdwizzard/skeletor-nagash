@@ -1,0 +1,15 @@
+# Not for the public repo:
+# - work/ holds extracted game audio, YouTube reference audio, the transcript
+#   manifest, and generated takes (copyrighted source material / big binaries)
+# - site-*/ are local review tools that embed that same audio
+work/
+site-bakeoff/
+site-refpick/
+site-listen/
+.venv/
+__pycache__/
+*.pyc
+# never commit anything key-shaped
+.env
+*.key
+fal_key*
