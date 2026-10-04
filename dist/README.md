@@ -37,9 +37,11 @@ Manual route:
   still hear him when you meet him in campaign or play against him.
 
 ## Uninstall / rollback
-Delete `skeletor_nagash.pack` from the data folder. That's it — the vanilla voice
-returns. Originals are never touched by this mod. (Belt-and-braces: the project repo
-keeps the extracted vanilla wems in `work/original_wem/`.)
+Windows: double-click **`uninstall.bat`** — it finds the installed pack, asks once,
+and removes it. Or just delete `skeletor_nagash.pack` from the data folder by hand
+(that's all the uninstaller does). The vanilla voice returns immediately; originals
+are never touched by this mod. (Belt-and-braces: the project repo keeps the
+extracted vanilla wems in `work/original_wem/`.)
 
 ## After game updates
 Patches may ship new packs but won't remove this file. If a patch adds NEW Nagash

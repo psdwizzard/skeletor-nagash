@@ -17,8 +17,9 @@ Prefer to do it by hand? Copy `skeletor_nagash.pack` into
 `C:\Program Files (x86)\Steam\steamapps\common\Total War WARHAMMER III\data\`
 (Steam → right-click the game → Manage → Browse local files → `data`).
 
-**Uninstall:** delete `skeletor_nagash.pack` from that folder. The original voice
-comes back instantly — the mod never touches any game file.
+**Uninstall:** double-click `uninstall.bat` (or just delete `skeletor_nagash.pack`
+from that folder). The original voice comes back instantly — the mod never touches
+any game file.
 
 **Requirements:** game updated to patch 9.0+ ("Lords of the End Times"), voice
 language English. You'll hear Skeletor-Nagash whenever he speaks; playing *as* him
